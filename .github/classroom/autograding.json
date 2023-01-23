@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "First Deliverables",
+      "setup": "",
+      "run": "gradle test --tests *FirstDeliverableTests",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    }
+  ]
+}
